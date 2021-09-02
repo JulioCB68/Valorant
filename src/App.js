@@ -1,8 +1,14 @@
 import React from 'react';
 
+import GlobalStyles from './assets/styles/GlobalStyles';
+import { Home } from './page/Home';
+
 function App() {
   return (
-    <h1> Welcome to the Valorant! </h1>
+    <>
+      <GlobalStyles />
+      <Home />
+    </>
   );
 }
 
