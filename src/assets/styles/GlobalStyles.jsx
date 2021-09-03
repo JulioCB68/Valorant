@@ -13,6 +13,10 @@ export default createGlobalStyle`
     font-family: 'Druk Wide Bold';
   }
 /* -------------------- PRE-SETTINGS -------------------- */
+  html {
+    overflow: hidden;
+  }
+
   html, body, #root {
     height: 100%;
   }
