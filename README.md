@@ -6,7 +6,7 @@
 
 
 <h1 align="center">
-    <img alt="Valorant" src="https://i.ibb.co/6Ff1vHy/Portf-lio.png" />
+    <img alt="Valorant" src="https://i.ibb.co/qMmgbRT/Valorant.png" />
 </h1>
 
 <br>
